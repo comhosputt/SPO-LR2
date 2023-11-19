@@ -1,0 +1,16 @@
+method f(x:int,y:int) :int
+var
+a,b:long;
+f,g:int;
+begin
+    a=g+b;
+    c=d;
+        if w>33 then 
+            while w<=0 do 
+            a = x+y+z;
+        else 
+        a = z+y+x;
+    a=q+b;
+    c=d;  
+    
+end;
